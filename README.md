@@ -8,7 +8,7 @@ parts:
 - on/off switch
 - electric motor
 - cables?
-- a thind that used to be a manual ventilator
+- a thing that used to be a manual ventilator
 
   
 pros:
