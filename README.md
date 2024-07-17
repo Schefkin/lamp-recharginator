@@ -12,7 +12,7 @@ parts:
 
   
 pros:
-looks like sth out of madmax
+looks like sth out of madmax, no batties needed
 
 cons:
 none
